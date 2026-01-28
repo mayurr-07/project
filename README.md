@@ -18,7 +18,7 @@ This project is designed to be lightweight, easy to run, and suitable for evalua
    ```bash
    cd john-doe-resume
 
-USAGE:
+USAGE-->
 
 - View Resume: Open index.html in any modern browser.
 - Edit Content: Update the text inside index.html to reflect your own details.
@@ -29,4 +29,8 @@ USAGE:
 - Push the project to a GitHub repository.
 - Go to Settings → Pages → Deploy from branch.
 - Your resume will be live at https://mayurr_07.github.io/project.
+
+SCREENSHOTS HERE -->
+
+![alt text](<Screenshot 2026-01-28 202438.png>) ![alt text](<Screenshot 2026-01-28 202413.png>)
 
